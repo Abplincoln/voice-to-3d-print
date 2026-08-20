@@ -1,5 +1,4 @@
 # Env
-.env
 backend/cloudrun.env.yaml
 frontend/cloudrun.env.yaml
 
@@ -33,3 +32,7 @@ Keys/
 
 # OS
 .DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
